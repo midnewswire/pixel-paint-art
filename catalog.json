@@ -1,0 +1,486 @@
+{
+ "version": 1,
+ "puzzles": [
+  {
+   "id": "mandala-7",
+   "name": "Aurora Mandala",
+   "category": "things",
+   "colors": 16,
+   "regions": 155,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2943,
+     "sha256": "d0e2e6df8de87913961aff5274591ff4b45ccfe80123afbb6b219293d71b5dd8"
+    },
+    "regions.png": {
+     "bytes": 31734,
+     "sha256": "dbbb92fad835c2d090f620a96f431e151e4044d2a627311c1736f6c7ae969228"
+    },
+    "lines.png": {
+     "bytes": 140764,
+     "sha256": "65306d2dd722df289bf363af59c544baaec47f21f71364d62289ab3d4587c950"
+    },
+    "thumb.png": {
+     "bytes": 88211,
+     "sha256": "6d640926f13e7df527cb032369db33b03eeb7e3f2c241f9d190d8e81a702179b"
+    },
+    "sketch.png": {
+     "bytes": 32158,
+     "sha256": "207196610484b8b6b7bc0f2ff4a6dfe5a44aa89b33065faca640905751def534"
+    }
+   }
+  },
+  {
+   "id": "reef-20",
+   "name": "Hidden Reef",
+   "category": "animals",
+   "colors": 24,
+   "regions": 109,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2291,
+     "sha256": "d1241be974657d505e997653a1243696edc4a596270e6f349c508fe23323a637"
+    },
+    "regions.png": {
+     "bytes": 21258,
+     "sha256": "1f7dcf072fafca669f160488ed079c03f11c91f9711f29c224d5b12bd6675b16"
+    },
+    "lines.png": {
+     "bytes": 89632,
+     "sha256": "4bba06410880f81749b5b5689d2f29eac13c999a913261c50b644cf7072a989f"
+    },
+    "thumb.png": {
+     "bytes": 58974,
+     "sha256": "54b0044fa7114629d3090fa950d90579536e06dea1db8bbeca533cfba21f2099"
+    },
+    "sketch.png": {
+     "bytes": 21971,
+     "sha256": "2134c742c3bc979ded513a4180cecfbc2f6b2b64809862a88586e481605b1d4d"
+    }
+   }
+  },
+  {
+   "id": "mandala-33",
+   "name": "Starlight Mandala",
+   "category": "things",
+   "colors": 14,
+   "regions": 187,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3461,
+     "sha256": "708553793f35c702a5761f4f5a25feaa268dad019c8013fff8a30e45f33c4f0b"
+    },
+    "regions.png": {
+     "bytes": 35524,
+     "sha256": "d8376a703f83148540de34b2d393150493572ee59eb9b8db7feff25325864e05"
+    },
+    "lines.png": {
+     "bytes": 155715,
+     "sha256": "29a0b5fdcb5dc3b9db93b742911899bac6a19777311cc5e3cc060476ea62bdc5"
+    },
+    "thumb.png": {
+     "bytes": 103083,
+     "sha256": "8f4e73a65f86ceaa5cd620acada4bf3e87d2fd3b6af6af4abe454094bd601dfe"
+    },
+    "sketch.png": {
+     "bytes": 37147,
+     "sha256": "9a8a915d1527bb216536f7edb5b138ee094348bc28f17a99e24ddfa649246e64"
+    }
+   }
+  },
+  {
+   "id": "reef-46",
+   "name": "Coral Reef",
+   "category": "animals",
+   "colors": 23,
+   "regions": 93,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2001,
+     "sha256": "07730ad70881039e0f251692ffc23e45d0f63788eaa98037bd27580e8e046b3b"
+    },
+    "regions.png": {
+     "bytes": 20189,
+     "sha256": "fb35f7b0256247351966bb8b1319be089f6a3ae677a6db0713c5a740c29bf42f"
+    },
+    "lines.png": {
+     "bytes": 88040,
+     "sha256": "1c7b64c251089ab4f0c2558bd1e5b8ab84f7ae3b58ebe83eec9a4633aeb5727c"
+    },
+    "thumb.png": {
+     "bytes": 56246,
+     "sha256": "6899b8cc5b51b54d95b26cc0a0898cc44eeda1597ad49a4268b04eb950ed7592"
+    },
+    "sketch.png": {
+     "bytes": 21560,
+     "sha256": "90f3fc4edf3a8a703e1b5f64270cbc0f3c72bc70be443316572574fc26bef936"
+    }
+   }
+  },
+  {
+   "id": "mandala-59",
+   "name": "Bloom Mandala",
+   "category": "things",
+   "colors": 15,
+   "regions": 214,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3951,
+     "sha256": "3b39dd43c105eea18e3388b60b5695601ee8cf8b276711288c0845b5c1d32d97"
+    },
+    "regions.png": {
+     "bytes": 40684,
+     "sha256": "d160f89ab32a5916eb96868f8ec0d373b1cb4beaa9fbae5e5c4907499a9c2e4c"
+    },
+    "lines.png": {
+     "bytes": 174748,
+     "sha256": "1ad8cdca38a41e96942627517382fac6e1886e835f4d8ae1d8befe475fb8a511"
+    },
+    "thumb.png": {
+     "bytes": 117267,
+     "sha256": "c695b683cc25a379c8ccb5e281b0d9b20683b2471a140939c33e1419910aeb7b"
+    },
+    "sketch.png": {
+     "bytes": 43440,
+     "sha256": "d193e70c004e7f9648350ab2a1651d9a97b90e19d0f05e54946caa7098838fb7"
+    }
+   }
+  },
+  {
+   "id": "reef-72",
+   "name": "Coral Reef #2",
+   "category": "animals",
+   "colors": 23,
+   "regions": 105,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2211,
+     "sha256": "7449d65c1f9cf8cabef78681c1c65237af8a3fdc3ec4860ae50acc7e00aa7dc1"
+    },
+    "regions.png": {
+     "bytes": 21656,
+     "sha256": "3428f785c230bb36f7e7c0b0129d4dc01ad159c1cff501ff5a7f703a18a3361a"
+    },
+    "lines.png": {
+     "bytes": 91042,
+     "sha256": "64fca7cc453704e36e046ac14c505c6109ae77f91e81ec0e9753f77b072440f1"
+    },
+    "thumb.png": {
+     "bytes": 64060,
+     "sha256": "00efe3c0f06f71a97c47179e04cea088e20628a42e5b7749aa98d7e05a21f168"
+    },
+    "sketch.png": {
+     "bytes": 23554,
+     "sha256": "be6ef456ce4117ff9a7cf0ccb2a2a1c021c38f4d5f2e2a84cabceeda68eb1a2b"
+    }
+   }
+  },
+  {
+   "id": "mandala-85",
+   "name": "Bloom Mandala #2",
+   "category": "things",
+   "colors": 13,
+   "regions": 175,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3266,
+     "sha256": "1e4d874b437388a7d5bb864f33c39d30afabfc8b7622f788ea1c49f1aaef2600"
+    },
+    "regions.png": {
+     "bytes": 37148,
+     "sha256": "0992806c703f90e35135e326ad04549f0828c3f6c3415bd063501b2c17d4f4a9"
+    },
+    "lines.png": {
+     "bytes": 162843,
+     "sha256": "7a95f8cdcf35de932f1ade2a5f920a59c712ede0a458c4b45ac642893fc483bd"
+    },
+    "thumb.png": {
+     "bytes": 109226,
+     "sha256": "23d0b39eeac7bd9796a5fbc1c793615b00e592245812fb82d7a1dca42e1a1e53"
+    },
+    "sketch.png": {
+     "bytes": 40807,
+     "sha256": "3d95900ae7fde5b772bdb709003e8ba7baa69d437e206487430222ae372288ff"
+    }
+   }
+  },
+  {
+   "id": "reef-98",
+   "name": "Tide Reef",
+   "category": "animals",
+   "colors": 23,
+   "regions": 116,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2411,
+     "sha256": "b6e765693715791ce96aca6aa5ade18901c165f533a875ecba43f7af51221770"
+    },
+    "regions.png": {
+     "bytes": 22486,
+     "sha256": "77d0107ac9075d4209a98f02deaf4201b67838e587d0c49950d1554e037171f5"
+    },
+    "lines.png": {
+     "bytes": 99618,
+     "sha256": "afaa6f96f965c163f4e3f5f2276a12320e5a86f5dbf2e1eba8125f7549738ab3"
+    },
+    "thumb.png": {
+     "bytes": 64668,
+     "sha256": "ab1d60dcc7939480d601d10a3ddeb549ac758fe8f16060d648583d64f0852f5e"
+    },
+    "sketch.png": {
+     "bytes": 23989,
+     "sha256": "00b73a5256d2cca5c37e621e807571dfbfbe74ff2721460568c524a6351f5ded"
+    }
+   }
+  },
+  {
+   "id": "mandala-815",
+   "name": "Dream Mandala",
+   "category": "things",
+   "colors": 14,
+   "regions": 148,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2805,
+     "sha256": "43b1e59bb4184f4356de22de4f388d92ead3dae1b956719122724a80f3a43e10"
+    },
+    "regions.png": {
+     "bytes": 34217,
+     "sha256": "376a6faa970ac8c23940e834de60ff8d98ab0b8b98f1c39bd07350484c053c4f"
+    },
+    "lines.png": {
+     "bytes": 148735,
+     "sha256": "e8a55e235cf1f6e67ea32edc385fe4b18528117e48957e8740750dceb717c7d3"
+    },
+    "thumb.png": {
+     "bytes": 100161,
+     "sha256": "76356e721113da86d1dcba9ba3cae582e0cae149e379b72ac9e6af9be1115628"
+    },
+    "sketch.png": {
+     "bytes": 37250,
+     "sha256": "9d12acba77bb92fa42e0c842e9e07280312a61fedd3b0c651f4a65037b51a623"
+    }
+   }
+  },
+  {
+   "id": "garden-828",
+   "name": "Morning Garden",
+   "category": "flowers",
+   "colors": 22,
+   "regions": 150,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2977,
+     "sha256": "0a89d0c05d4a0c4526620b82e4d8ebab2705e77d1a8e28aaaa0838126882e8af"
+    },
+    "regions.png": {
+     "bytes": 23203,
+     "sha256": "666fd15dfd1f5ef5baffc865887c7a278317df09f95504614e08ec030288096a"
+    },
+    "lines.png": {
+     "bytes": 113265,
+     "sha256": "d95b42e65d8f26923534ea0dcde62f0835862d830748d9c4283ed5749439f27a"
+    },
+    "thumb.png": {
+     "bytes": 59280,
+     "sha256": "bb1f47c407926f5f950274fa9d1d83ddd2788786d18238f08f24341b10198050"
+    },
+    "sketch.png": {
+     "bytes": 22154,
+     "sha256": "6a4d196910d6752c89c920e826ef77d2262e959c1fbebcd6379a11c30205e45b"
+    }
+   }
+  },
+  {
+   "id": "reef-841",
+   "name": "Rainbow Reef",
+   "category": "animals",
+   "colors": 22,
+   "regions": 103,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2179,
+     "sha256": "fd2422a324de5ce5d734b61bb2aee036cd2455d468bb21f37aa96d0a39784086"
+    },
+    "regions.png": {
+     "bytes": 21344,
+     "sha256": "bd344614edcefc5f6e6671082970104f9d7c59dc7869c02d9d0bf6eb4014a834"
+    },
+    "lines.png": {
+     "bytes": 94468,
+     "sha256": "8a2f56d7f6c7e18aaca32532719d5978a9f43f06ddb312966cd3ed21b166b6af"
+    },
+    "thumb.png": {
+     "bytes": 61751,
+     "sha256": "ae6d9488b792701b9abd5b792e6a3a0dba3be5c7e778cf850c4666b4aae78d8a"
+    },
+    "sketch.png": {
+     "bytes": 23196,
+     "sha256": "b3d8ecba8f15f2a6c4597f590c21c7e02cf3b72062df7c540485d39bede5b6f0"
+    }
+   }
+  },
+  {
+   "id": "mandala-867",
+   "name": "Harmony Mandala",
+   "category": "things",
+   "colors": 15,
+   "regions": 178,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3341,
+     "sha256": "1cc16c30867c7a49bf750fdb7a6586edb93a33bf7dc9820e8ecfa1054da44791"
+    },
+    "regions.png": {
+     "bytes": 35106,
+     "sha256": "83c7b467fff4d6b87a3414787942008b333bb4526c4805c77a988ef7108d62d6"
+    },
+    "lines.png": {
+     "bytes": 158954,
+     "sha256": "0d411d74fef4c9d8efc1381c7c69a775123d388413734892b54273dd4713ea97"
+    },
+    "thumb.png": {
+     "bytes": 103545,
+     "sha256": "b3731cac8f5ddf5aba125a044cdac95049d53cf50706be4eca80c8bd8f834854"
+    },
+    "sketch.png": {
+     "bytes": 37238,
+     "sha256": "38f8791f03155c019a1de87b7d7abdd8223aa98efd7aca578910ae7817af47f6"
+    }
+   }
+  },
+  {
+   "id": "garden-880",
+   "name": "Wild Garden",
+   "category": "flowers",
+   "colors": 23,
+   "regions": 179,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3493,
+     "sha256": "610c0f167c2ac9e9b00f62d9713139d49c4fde170eb46cdf16c5a8739b2ba4ef"
+    },
+    "regions.png": {
+     "bytes": 24160,
+     "sha256": "5d2f8e2fd4dfc0bc49274f7c46cc227e9052df22e8f8d08563d4f52a64b30511"
+    },
+    "lines.png": {
+     "bytes": 121410,
+     "sha256": "03cca6f1589c55cfc518790d8b256f1fc41ed7fab32946ae3d527c480c5d14c0"
+    },
+    "thumb.png": {
+     "bytes": 62328,
+     "sha256": "2f5d8f23dee0126c36744cab976f80f541e209fbaebfb8d48b3c7177d3a171b0"
+    },
+    "sketch.png": {
+     "bytes": 23870,
+     "sha256": "3ff14e3a6df96b3e5d959dd22e71199118d19b5aed20791f4f6650921b408de3"
+    }
+   }
+  },
+  {
+   "id": "mandala-919",
+   "name": "Velvet Mandala",
+   "category": "things",
+   "colors": 15,
+   "regions": 199,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3703,
+     "sha256": "92e7ad6d844749cc884bd3491296e52e4caecba7e87f0e484c4601598d5b686e"
+    },
+    "regions.png": {
+     "bytes": 38200,
+     "sha256": "ef27e81ae55225323bebc316786fca403f7a1a3f946f75083ade13aa728aca4a"
+    },
+    "lines.png": {
+     "bytes": 166130,
+     "sha256": "142065c0d7aec0b96104d3eb01fb184acc0ceec644699fc50adfe31c3c202352"
+    },
+    "thumb.png": {
+     "bytes": 105977,
+     "sha256": "b12edcc0258ef5b8ae43b91888f1075cea8c87158d29ebc1561b537f28dc1e54"
+    },
+    "sketch.png": {
+     "bytes": 40182,
+     "sha256": "4121c908c8541e501bad9d9847c7db2cadb8204f78e13c08732e10661bbfaf21"
+    }
+   }
+  },
+  {
+   "id": "garden-932",
+   "name": "Cottage Garden",
+   "category": "flowers",
+   "colors": 21,
+   "regions": 117,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2355,
+     "sha256": "227da3f5591c5db43488b8c4f45015c4d04073a15e370ea79d7acc0e96a843f2"
+    },
+    "regions.png": {
+     "bytes": 19103,
+     "sha256": "84b704c67959be985b2f268ea855e7ce09470b90e615056942b28f87b4ac53a2"
+    },
+    "lines.png": {
+     "bytes": 88584,
+     "sha256": "6c1f750a7e1fb2a3af3f0f4574d29fd741efe2264b7fafdb9c78dbe987112738"
+    },
+    "thumb.png": {
+     "bytes": 47968,
+     "sha256": "cb5f26c19eccd47b4ee2fdba47e5a6cb750762b2c6d558ffe49c366ffafbe0c4"
+    },
+    "sketch.png": {
+     "bytes": 18505,
+     "sha256": "2bdebe73f97667c890676fdf907d51c9c3302660b4f7a4de2792168ceec40a54"
+    }
+   }
+  },
+  {
+   "id": "reef-945",
+   "name": "Sunken Reef",
+   "category": "animals",
+   "colors": 24,
+   "regions": 103,
+   "added": "2026-11-21",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2195,
+     "sha256": "580bd864fd79bab30d69b4e88cf4f163f2e3710d6a9c0746ea6dba6288031bb8"
+    },
+    "regions.png": {
+     "bytes": 21355,
+     "sha256": "f62fbd554aed76c9bf83548a6ca7b722c95384988673ec5c648f1b2c4d8c89e5"
+    },
+    "lines.png": {
+     "bytes": 91956,
+     "sha256": "eb13427253600921c0bbdcb22e470aa12cfb03ae582a8ab0876e0c39a2ab5a8c"
+    },
+    "thumb.png": {
+     "bytes": 60167,
+     "sha256": "d0aaf5365d133c8ee0e0bc9741b7118b59352fec911842e2f62e0773888b9211"
+    },
+    "sketch.png": {
+     "bytes": 22146,
+     "sha256": "ab53453e88088d6e9d1dc914c53598fbd9d7f0e713b13f81feb9cf8241c37bb4"
+    }
+   }
+  }
+ ],
+ "updated": "2026-11-21T15:04:25Z"
+}

@@ -1,0 +1,3 @@
+tool/art/out/
+__pycache__/
+*.pyc
