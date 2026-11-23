@@ -540,7 +540,97 @@
      "sha256": "5208fecfe2349e6cd253d85fbdfc698b17d5105108cbd40206cafd6e1dd0a96d"
     }
    }
+  },
+  {
+   "id": "mandala-1825",
+   "name": "Harmony Mandala #2",
+   "category": "things",
+   "colors": 12,
+   "regions": 170,
+   "added": "2026-11-23",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3165,
+     "sha256": "e40314afeee3a8046677280ea0326bf944859af4142a26931e9d2155bd670b40"
+    },
+    "regions.png": {
+     "bytes": 38934,
+     "sha256": "cd0ea8fa540b170c680606f8cdfb36151dc54b5cc381a4d7ff1b3308a75c0916"
+    },
+    "lines.png": {
+     "bytes": 164096,
+     "sha256": "daa40c64afa256876cb825ea36f89cbb44f2e08140596ff5154a4cbdffeb7bb3"
+    },
+    "thumb.png": {
+     "bytes": 97536,
+     "sha256": "1176697e83ab9c3419e34d35d1e29810c2b307db43f282a1823b9ebb4313e522"
+    },
+    "sketch.png": {
+     "bytes": 35830,
+     "sha256": "d6129320933d3b6867e7d0527f026e81cd4db88ea2dda66044d81663c21d7dba"
+    }
+   }
+  },
+  {
+   "id": "garden-1838",
+   "name": "Morning Garden #2",
+   "category": "flowers",
+   "colors": 23,
+   "regions": 166,
+   "added": "2026-11-23",
+   "files": {
+    "puzzle.json": {
+     "bytes": 3286,
+     "sha256": "49e7c0095e6d65a9e33e426610e66deb5b410a2d712bbed35f8ce20acc59327e"
+    },
+    "regions.png": {
+     "bytes": 26094,
+     "sha256": "91352d7bb1ac386db336ae0c42a24c8c9d681dba34c7ac0ebaf90dff8a8ebf38"
+    },
+    "lines.png": {
+     "bytes": 128972,
+     "sha256": "dec71ca2312e0aac0ce4fec4bb5e92635b66646d4ca091294b99ab1972a13472"
+    },
+    "thumb.png": {
+     "bytes": 64356,
+     "sha256": "29fc72b4a3ae8cbe90745bd4957e0839effe6c26f646c9e08eb24befa6dee1ee"
+    },
+    "sketch.png": {
+     "bytes": 24197,
+     "sha256": "8adc130913c970c2911fade97628515fb02f041ee34709e14aad7e384b61a5fb"
+    }
+   }
+  },
+  {
+   "id": "reef-1851",
+   "name": "Sunken Reef #2",
+   "category": "animals",
+   "colors": 23,
+   "regions": 99,
+   "added": "2026-11-23",
+   "files": {
+    "puzzle.json": {
+     "bytes": 2100,
+     "sha256": "b32df5b2afca99b6f8c235da1f9dbd370ae37eeb2e8665c7a57f0546f8d10822"
+    },
+    "regions.png": {
+     "bytes": 21720,
+     "sha256": "aee0ad298163a840b18f4f7e0323459ffc783608ddfce1faa256f5956a3e15e1"
+    },
+    "lines.png": {
+     "bytes": 94486,
+     "sha256": "cf47ad75f153c146dde1c72e21573a1df04269ebf0d86eb182752b7ce1d76142"
+    },
+    "thumb.png": {
+     "bytes": 55320,
+     "sha256": "196afc4f669c3b1684842c42c41052e8aba4db1e64ac07764e35bf523ae3b8b4"
+    },
+    "sketch.png": {
+     "bytes": 20986,
+     "sha256": "723c279998a875b7d327d1574239ebf13f9e38cf5757b2141051afacf1a64246"
+    }
+   }
   }
  ],
- "updated": "2026-11-21T15:35:53Z"
+ "updated": "2026-11-23T17:32:21Z"
 }
